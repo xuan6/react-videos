@@ -1,5 +1,5 @@
 # react practice
-Praciting React.js using ReduxSimpleStarter repo
+Praciting React.js based on ReduxSimpleStarter repo
 https://github.com/StephenGrider/ReduxSimpleStarter.git
 
 # demo
