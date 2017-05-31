@@ -25,3 +25,7 @@
 .list-group-item:hover{
     background-color: #eee;
 }
+
+.search-bar input{
+    margin-left: 15px;
+}
